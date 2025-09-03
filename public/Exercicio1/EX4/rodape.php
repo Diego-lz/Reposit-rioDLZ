@@ -1,0 +1,1 @@
+<footer>Desenvolvimento em 2025</footer>

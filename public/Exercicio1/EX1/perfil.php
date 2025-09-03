@@ -4,7 +4,7 @@
 <p>Bem vindo, <?php echo $nome; ?>!</p>
 
 <?php $idade = "19"; ?>
-<p>idade: <?php echo $idade; ?> anos</p>
+<p>Idade: <?php echo $idade; ?> anos</p>
 
 <?php $cidade = "Palmital"; ?>
-<p>cidade: <?php echo $cidade; ?> </p>
+<p>Cidade: <?php echo $cidade; ?> </p>
